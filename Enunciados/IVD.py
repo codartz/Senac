@@ -1,4 +1,4 @@
-1)
+1
 # Crie um programa que solicita ao usuário os dados do aluno (nome, idade, altura, contato) 
 # e depois exiba a informação na tela.
 
@@ -12,7 +12,7 @@ print("Idade: ", idade)
 print("Altura: ", altura, "m" )
 print("Contato: ", contato)
 
-2)
+2
 # Soma de dois números
 # Peça ao usuário dois números e exiba a soma deles.
 
@@ -33,7 +33,7 @@ print(subtracao)
 
 print("A subtração é: ", a - b)
 
-3)
+3
 # Multiplicação
 # Multiplique dois valores informados pelo usuário
 
@@ -46,7 +46,7 @@ print(multiplica)
 
 print("A multiplicação é: ", a * b)
 
-4)
+4
 # Divisão
 # Divida o primeiro número pelo segundo 
 # (lembre que pode retornar um número decimal).
@@ -56,7 +56,7 @@ b = float(input("Digite o segundo número: "))
 
 print("O resultado da divisão é: ", a / b)
 
-5)
+5
 # Média de três números
 # Calcule a média aritmética. Solicite ao usuário três números, 
 # some-os e depois divida por 3.
@@ -69,7 +69,7 @@ media = ( a + b + c) / 3
 
 print("A média é: ", media)
 
-6)
+6
 # Dobro de um número
 # Calcule o dobro de um número informado pelo usuário.
 
@@ -77,7 +77,7 @@ a = float(input("Digite o primeiro número: "))
 
 print("O dobro do número é: ", a * 2)
 
-7)
+7
 # Converter minutos em segundos
 # (1min = 60s)
 
