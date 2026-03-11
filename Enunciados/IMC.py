@@ -1,6 +1,8 @@
  # Objetivo: calcular IMC e classificar de forma simples
 
 nome = input("Nome: ")
+idade = input("Idade: ")
+cpf = input("CPF: ")
 peso = float(input("Peso (kg): "))
 altura = float(input("Altura (m): "))
 
