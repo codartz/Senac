@@ -15,7 +15,7 @@ Terminal ➥ git init ➥ git clone ▼
 https://github.com/codartz/Senac.git ▼
 cd Senac ➥ git add PP.py ▼
 git commit -m "Primeiro commit: add PP.py" ▼
-gir branch -M main ▼
+git branch -M main ▼
 git push -u origin main 
 
 
