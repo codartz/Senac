@@ -4,6 +4,7 @@ Se o seu repositório usa a branch main:
 cd "c:\Users\Taís\OneDrive - SENAC-SC\Senac\Senac"
 
 # buscar e mesclar as alterações da branch 'main' no GitHub
+
 git pull origin main
 
 Caso sua branch principal se chame master substitua main por master nos comandos:
