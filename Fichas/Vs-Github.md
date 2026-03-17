@@ -1,5 +1,7 @@
 No terminal, estando na raiz do repositório e com os ficheiros já salvos:
 
+# 0. cd "nome da pasta" git add.
+
 # 1. marca tudo que mudou (novos, modificados ou removidos)
 git add .            # ou `git add -A`
 
