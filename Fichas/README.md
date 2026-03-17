@@ -5,6 +5,7 @@ Crtl Z: Salvar tudo
 Crtl P: Acesso a pesquisa
 Print: Crtl + Shift + S ou Win + PrtSc
 Py: python –-version ou -v
+cd ..: Voltar
 
 Crie uma pasta no Desktop “Repositório”
 VsC: File ➥ Open Folder ➥ “Repositório” ➥ New File
