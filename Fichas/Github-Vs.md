@@ -1,6 +1,6 @@
 Se o seu repositório usa a branch main:
 
-cd "c:\Users\tais62218506\Senac"
+"C:\Users\tais62218506\OneDrive - SENAC-SC"
 
 # ir para o diretório do clone local
 cd "c:\Users\Taís\OneDrive - SENAC-SC\Senac\Senac"

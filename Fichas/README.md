@@ -17,4 +17,3 @@ cd Senac ➥ git add PP.py ▼
 git commit -m "Primeiro commit: add PP.py" ▼
 git branch -M main ▼
 git push -u origin main 
-
