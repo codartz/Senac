@@ -44,3 +44,4 @@ print("Aluna após update:", aluna)
 # Iterar sobre dict
 for chave, valor in aluna.items():
     print(f"{chave} -> {valor}")
+
