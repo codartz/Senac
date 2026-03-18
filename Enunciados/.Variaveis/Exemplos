@@ -1,0 +1,34 @@
+# Exemplo de input e print
+nome = input("Digite seu nome ")
+print("Olá, " + nome + "!")
+
+aluna = input("Qual seu nome?")
+print("Olá, ", aluna)
+
+# Exemplo de variavel inteira (int)
+idade = 25
+print(idade) # Saída: 25
+
+# Exemplo de vaariavel de ponto flutuante (float)
+altura = 1.75
+print(altura) # Saída: 1.75
+
+# Exemplo de variavel string (str)
+nome = " João"
+print("Olá, " + nome) # Saída: João
+
+# Exemplo de listas (list)
+numeros = [1, 2, 3, 4, 5]
+print(numeros) # Saída: [1, 2, 3, 4, 5]
+
+# Exemplo de tuplas (tuple)
+coordenadas = (10, 20)
+print(coordenadas) # Saída: (10, 20)
+
+# Exemplo de dicionário (dict)
+pessoa = {
+    "nome": "Maria",
+    "idade": 30,
+    "cidade": "São Paulo"
+}
+print(pessoa) # Saída: {'nome': 'Maria', 'idade': 30, 'cidade': 'São Paulo'}
