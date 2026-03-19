@@ -1,6 +1,6 @@
 # Registro de Aluno
 
-# Solicita ao usuario que inofrme os dados do aluno
+# Solicita ao usuario que informe os dados do aluno
 nome = input("Digite o nome do aluno: ")
 idade = int(input("Digite a idade do aluno: "))
 altura = float(input("Digite a altura do aluno: "))

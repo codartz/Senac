@@ -53,3 +53,11 @@ print(a / b) # Divisão: 3.3333333333333335
 print(a // b) # Divisão Inteira: 3
 print(a % b) # Módulo (resto da divisão): 1
 print(a ** b) # Potenciação: 1000
+
+# Solicita ao usuario um número
+número = float(input("Digite um número: "))
+
+# Calcule
+multiplique = (número * 2)
+
+print("Multiplicado por 2:", multiplique)

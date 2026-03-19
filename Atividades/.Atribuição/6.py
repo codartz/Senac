@@ -1,1 +1,0 @@
-Solicite ao usuário que informe minutos (int) e transforme em horas inteiras utilizando //= 60.

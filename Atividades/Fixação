@@ -1,0 +1,39 @@
+
+
+# Solicita ao usuario um número
+número = float(input("Digite um número: "))
+
+# Calcule
+multiplique = (número * 2)
+
+# Imprima o resultado na tela
+print("Multiplicado por 2:", multiplique)
+
+
+# Solicita ao usuario dois números
+número1 = float(input("Digite o primeiro número: "))
+número2 = float(input("Digite o segundo número: "))
+
+# Calcule
+some = (número1 + número2)
+
+# Imprima o resultado na tela
+print(f"Soma: {some:.0f}")
+
+# Solicita ao usuario dois números
+número1 = float(input("Digite o primeiro número: "))
+número2 = float(input("Digite o segundo número: "))
+
+# Calcule
+some = (número1 + número2)
+divide =(some / 2)
+
+# Imprima o resultado na tela
+print(f"Média: {divide:.1f}")
+
+# Solicita ao usuario que informe os dados do aluno
+nome = input("Digite o nome do aluno: ")
+nota = float(input("Digite a nota do aluno: "))
+
+# Imprima o resultado na tela
+print(f"Média: {divide:.1f}")
