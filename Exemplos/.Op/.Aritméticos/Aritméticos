@@ -1,0 +1,63 @@
+# Operadores Aritmeticos ( +, -, *, /, //, %, ** )
+
+# Adição (+)
+a = 10
+b = 5
+soma = 10 + 5
+print("Soma:", soma)  # Saída: 15
+
+# Subtração (-)
+a = 10
+b = 5
+subtracao = 10 - 5
+print("Subtração:", subtracao)  # Saída
+
+# Multiplicação (*)
+a = 10
+b = 5
+multiplicacao = 10 * 5
+print("Multiplicação:", multiplicacao)
+
+# Divisão (/)
+a = 10
+b = 3
+divisao = 10 / 3
+print("Divisão:", divisao)
+
+# Divisão Inteira (//)
+a = 10
+b = 3
+divisao_inteira = 10 // 3
+print("Divisão Inteira:", divisao_inteira)
+
+# Módulo (%)
+a = 10
+b = 3
+modulo = 10 % 3
+print("Módulo (resto da divisão):", modulo)
+
+# Potenciação (**)
+a = 2
+b = 3
+potenciacao = 2 ** 3
+print("Potenciação:", potenciacao)
+
+# Praticando...
+a = 10
+b = 3
+
+print(a + b) # Soma: 13
+print(a - b) # Subtração: 7
+print(a * b) # Multiplicação: 30
+print(a / b) # Divisão: 3.3333333333333335
+print(a // b) # Divisão Inteira: 3
+print(a % b) # Módulo (resto da divisão): 1
+print(a ** b) # Potenciação: 1000
+
+# Solicita ao usuario um número
+número = float(input("Digite um número: "))
+
+# Calcule
+multiplique = (número * 2)
+
+print("Multiplicado por 2:", multiplique)
