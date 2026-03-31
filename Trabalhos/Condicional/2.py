@@ -15,4 +15,4 @@ elif nota >= 7:
 elif nota >= 5:
     print("Regular")
 else:
-    print("Reprovado")
+    print("Nota inválida")

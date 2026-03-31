@@ -15,7 +15,7 @@ elif idade >= 13 and idade <= 17:
     print("Adolescente")
 elif idade >= 18 and idade <= 59:
     print("Adulto")
-else idade >= 60:
+else:
     print("Idoso")
 
 
