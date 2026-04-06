@@ -5,11 +5,8 @@ estoque = int(input("Informe o valor do estoque: "))
 
 # Calcule
 
-
-
 # Atualize a quantidade utilizando atribuição -=
 estoque_final = estoque_inicial - quantidade_vendida
-
 
 # Imprima o resultado na tela
 print(f"Estoque final: {estoque_final:.0f}")
