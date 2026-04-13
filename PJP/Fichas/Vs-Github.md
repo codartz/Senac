@@ -6,7 +6,7 @@ No terminal, estando na raiz do repositório e com os ficheiros já salvos:
 git add .            # ou `git add -A`
 
 # 2. cria um commit com uma mensagem descritiva
-git commit -m "Minha mensagem de commit"
+git commit -m "Atualização 13/04"
 
 # 3. envia para o repositório remoto (substitua `main` se usar outra branch)
 git push -u origin main
